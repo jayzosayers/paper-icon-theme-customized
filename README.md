@@ -1,3 +1,7 @@
+A customized version of the Paper Icon Theme replacing the maximize and restore buttons with ones that look like the Windows Style.
+<details>
+  <summary>Original Readme</summary>
+
 Paper Icon Theme
 ================
 
@@ -73,3 +77,4 @@ Note: some software ships hardcoded icons, meaning when you install icons are no
 ## Donate & Support
 
 If you would like to support development by making a donation you can do so [here](https://snwh.org/donate) or by becoming a supporter on [Patreon](http://patreon.com/snwh/) or [Liberapay](http://liberapay.com/snwh/). &#x1F60A;
+</details>
